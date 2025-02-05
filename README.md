@@ -1,4 +1,4 @@
-# Slots application
+# Slot Machine
 
 ## Objective
 The goal of this project is to develop a robust and efficient gambling slot machine system using JavaScript. Designed for seamless performance, the application ensures fair gameplay through a reliable random number generator (RNG) while delivering a smooth and intuitive user experience.The system provides a responsive interface, efficient mechanics, and offline functionality without relying on animations or internet connectivity. Built with scalability and reliability in mind, this slot machine offers a straightforward yet engaging gaming experience.
