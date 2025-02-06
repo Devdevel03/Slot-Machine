@@ -11,9 +11,8 @@ The goal of this project is to develop a robust and efficient gambling slot mach
 - Debugging and troubleshooting to ensure smooth performance in an offline environment.
 
 ### Tools Used
-- JavaScript – Core language for developing the contact management backend application.
-- Node.js – Provides the runtime environment to execute JavaScript on the server-side, handling asynchronous operations efficiently.
-- Express – A minimal and flexible Node.js web application framework used to build the application's routing and middleware.
-- MongoDB – A NoSQL database used for storing and managing contact information with flexibility and scalability.
-- Version Control (Git/GitHub) – Essential for tracking code changes, collaboration, and managing the development lifecycle.
-- Testing & Debugging Tools (Mocha, Chai, Postman) – Employed to ensure the robustness, functionality, and performance of the backend services.
+- JavaScript – Core language for building the gambling slot machine system.
+- Random Number Generator (RNG) Algorithms – For ensuring fair and random gameplay outcomes.
+- Node.js – For running JavaScript on the server-side to manage game logic.
+- Version Control (Git/GitHub) – To track changes and manage the development process.
+- Testing & Debugging Tools (Jest, Chrome Developer Tools) – For ensuring the functionality and performance of the system.
